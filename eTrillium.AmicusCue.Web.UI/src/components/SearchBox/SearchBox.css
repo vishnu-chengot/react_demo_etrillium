@@ -1,0 +1,85 @@
+/* src/components/SearchBox.css
+.search-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: width 0.4s ease;
+    width: 200px;
+  }
+  
+  .search-box.expanded {
+    width: 400px;
+  }
+  
+  .search-box input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: width 0.4s ease;
+  }
+   */
+
+   .cs_contact_form {
+    padding: 20px;
+    background-color: white;
+    border-radius: 30px;
+  }
+  
+  .cs_form_field {
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    transition: all 0.3s ease;
+  }
+  
+  .cs_form_field:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    border: 1px solid rgba(81, 203, 238, 1);
+  }
+  
+  .cs_btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cs_btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .cs_btn i {
+    margin-left: 10px;
+    display: flex;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+  }
+  
+  .col-lg-12 {
+    flex: 1;
+  }
+  
+  .cs_height_18 {
+    height: 18px;
+  }
+  
+  .cs_height_42 {
+    height: 42px;
+  }
+  
+  .cs_height_xl_25 {
+    height: 25px;
+  }
+  

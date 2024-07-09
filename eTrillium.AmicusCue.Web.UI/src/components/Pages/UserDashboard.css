@@ -1,0 +1,10 @@
+/* src/components/Pages/UserDashboard.css */
+.user-dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full height of the viewport */
+    text-align: center;
+  }
+  
